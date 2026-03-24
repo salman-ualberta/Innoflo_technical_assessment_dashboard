@@ -450,7 +450,7 @@ def top_5_equipment_groups(df_filtered):
     
     fig_grp.update_layout(
         showlegend=True,
-        margin=dict(l=150, r=20, t=60, b=20),
+        margin=dict(l=20, r=20, t=60, b=20),
         hoverlabel=dict(
             bgcolor="white",
             font_size=13,
