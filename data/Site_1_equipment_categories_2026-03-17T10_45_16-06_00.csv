@@ -1,0 +1,31 @@
+Equipment Category ID,Description
+E,Excavator
+BHD,Blast Hole Drill
+RDT,Rear Dump Truck
+TD,Track Dozer
+WD,Wheel Dozer
+L,Loader
+G,Grader
+SSL,Skid Steer Loader
+RT,Rigid Truck
+WC,Water Cart
+ST,Service Truck
+DP,Dewatering Pump
+LP,Lighting Plant
+F,Forklift
+AC,Air Compressor
+FFT,Fire Fighting Trailer
+LV,Light Vehicle 
+C,Crane
+Float,Float
+Gen,Generator
+EWP,EWP
+WS,Work Shop
+W,Welder
+CP,Contractor Plant
+WH,Workshop Heaters
+R,Roller
+T,Tipper
+S,Sweeper
+PT,Pumper Truck
+CT,Combo Truck
